@@ -1,0 +1,74 @@
+name: Weekly games library
+
+on:
+  schedule:
+    # Thursdays 16:00 Europe/Zurich. GitHub cron is UTC, so fire at both possible UTC hours
+    # (14:00 = CEST, 15:00 = CET); the guard step below drops the one that is too early.
+    - cron: "0 14 * * 4"
+    - cron: "0 15 * * 4"
+  workflow_dispatch:
+    inputs:
+      backfill_weeks:
+        description: "Also process the N newest threads (e.g. 13 for three months). 0 = latest only."
+        default: "0"
+      force:
+        description: "Reprocess threads already in the library"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-library
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Only run at 16:00 Zurich time
+        id: guard
+        run: |
+          hour=$(TZ=Europe/Zurich date +%H)
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$hour" -lt 16 ]; then
+            echo "Zurich time is ${hour}:xx; skipping this trigger."
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.guard.outputs.run == 'true'
+
+      - uses: astral-sh/setup-uv@v6
+        if: steps.guard.outputs.run == 'true'
+
+      - name: Install
+        if: steps.guard.outputs.run == 'true'
+        run: uv sync --frozen
+
+      - name: Update library
+        if: steps.guard.outputs.run == 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
+          BACKFILL: ${{ inputs.backfill_weeks || '0' }}
+          FORCE: ${{ inputs.force && '--force' || '' }}
+        run: uv run rps-games weekly --backfill-weeks "$BACKFILL" $FORCE
+
+      - name: Commit and push
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add library data/aliases.json README.md
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          latest=$(ls library/data | sort | tail -1 | sed 's/\.json$//')
+          git commit -m "Update games library (${latest})"
+          git push
