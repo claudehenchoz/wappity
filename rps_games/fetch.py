@@ -10,7 +10,8 @@ import httpx
 
 BASE = "https://www.rockpapershotgun.com"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; rps-games/0.1)"}
-THREAD_RE = re.compile(r"/community/thread/(\d+)")
+# Thread ids are short alphanumeric hashids (e.g. "57xy2r"); some happen to be all digits.
+THREAD_RE = re.compile(r"/community/thread/([A-Za-z0-9]+)")
 PUBLISHED_RE = re.compile(r'"datePublished"\s*:\s*"([^"]+)"')
 
 
