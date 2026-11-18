@@ -1,0 +1,1178 @@
+{
+ "7 days to die": {
+  "key": "igdb:5574",
+  "name": "7 Days to Die",
+  "year": 2024,
+  "method": "exact"
+ },
+ "ace combat 8 wings of theve": {
+  "key": "igdb:381247",
+  "name": "Ace Combat 8: Wings of Theve",
+  "year": 2026,
+  "method": "exact"
+ },
+ "aces and aros": {
+  "key": "igdb:412607",
+  "name": "Ace & Aro: Heart-to-Heart",
+  "year": null,
+  "method": "llm"
+ },
+ "age of empires 2 hd": {
+  "key": "igdb:2950",
+  "name": "Age of Empires II: HD Edition",
+  "year": 2013,
+  "method": "llm"
+ },
+ "alan wake": {
+  "key": "igdb:1062",
+  "name": "Alan Wake",
+  "year": 2010,
+  "method": "exact"
+ },
+ "amerzone the explorer s legacy": {
+  "key": "igdb:289353",
+  "name": "Amerzone: The Explorer's Legacy",
+  "year": 2025,
+  "method": "llm"
+ },
+ "amid evil": {
+  "key": "igdb:74904",
+  "name": "Amid Evil",
+  "year": 2019,
+  "method": "exact"
+ },
+ "assassin s creed shadows": {
+  "key": "igdb:300976",
+  "name": "Assassin's Creed Shadows",
+  "year": 2025,
+  "method": "exact"
+ },
+ "atari 50 the anniversary celebration": {
+  "key": "igdb:207018",
+  "name": "Atari 50: The Anniversary Celebration",
+  "year": 2022,
+  "method": "exact"
+ },
+ "atom zombie smasher": {
+  "key": "igdb:8388",
+  "name": "Atom Zombie Smasher",
+  "year": 2011,
+  "method": "exact"
+ },
+ "battle for wesnoth": {
+  "key": "igdb:2365",
+  "name": "Battle for Wesnoth",
+  "year": 2005,
+  "method": "exact"
+ },
+ "battletech": {
+  "key": "igdb:18279",
+  "name": "BattleTech",
+  "year": 2018,
+  "method": "exact"
+ },
+ "battletoads": {
+  "key": "igdb:2970",
+  "name": "Battletoads",
+  "year": 1991,
+  "method": "llm"
+ },
+ "big walk": {
+  "key": "igdb:279624",
+  "name": "Big Walk",
+  "year": 2026,
+  "method": "exact"
+ },
+ "bioshock": {
+  "key": "igdb:20",
+  "name": "BioShock",
+  "year": 2007,
+  "method": "llm"
+ },
+ "blood of dawnwalker": {
+  "key": "igdb:282831",
+  "name": "The Blood of Dawnwalker",
+  "year": 2026,
+  "method": "exact"
+ },
+ "bloodborne": {
+  "key": "igdb:7334",
+  "name": "Bloodborne",
+  "year": 2015,
+  "method": "exact"
+ },
+ "borderlands": {
+  "key": "igdb:498",
+  "name": "Borderlands",
+  "year": 2009,
+  "method": "exact"
+ },
+ "bridge command": {
+  "key": "title:bridge command",
+  "name": "Bridge Command",
+  "year": null,
+  "method": "unresolved"
+ },
+ "bureau xcom declassified": {
+  "key": "igdb:244",
+  "name": "The Bureau: XCOM Declassified",
+  "year": 2013,
+  "method": "exact"
+ },
+ "burnout 3 takedown": {
+  "key": "igdb:5761",
+  "name": "Burnout 3: Takedown",
+  "year": 2004,
+  "method": "exact"
+ },
+ "chronicles of riddick assault on dark athena": {
+  "key": "igdb:433",
+  "name": "The Chronicles of Riddick: Assault on Dark Athena",
+  "year": 2009,
+  "method": "exact"
+ },
+ "citizen sleeper": {
+  "key": "igdb:152271",
+  "name": "Citizen Sleeper",
+  "year": 2022,
+  "method": "exact"
+ },
+ "citizen sleeper 2 starward vector": {
+  "key": "igdb:252853",
+  "name": "Citizen Sleeper 2: Starward Vector",
+  "year": 2025,
+  "method": "exact"
+ },
+ "clair obscur expedition 33": {
+  "key": "igdb:305152",
+  "name": "Clair Obscur: Expedition 33",
+  "year": 2025,
+  "method": "exact"
+ },
+ "clive barker s hellraiser revival": {
+  "key": "igdb:356552",
+  "name": "Clive Barker's Hellraiser: Revival",
+  "year": 2026,
+  "method": "exact"
+ },
+ "clive barker s undying": {
+  "key": "igdb:636",
+  "name": "Clive Barker's Undying",
+  "year": 2001,
+  "method": "exact"
+ },
+ "control": {
+  "key": "igdb:136604",
+  "name": "Control: Ultimate Edition",
+  "year": 2020,
+  "method": "exact"
+ },
+ "control resonant": {
+  "key": "igdb:225582",
+  "name": "Control Resonant",
+  "year": 2026,
+  "method": "exact"
+ },
+ "counter strike": {
+  "key": "igdb:241",
+  "name": "Counter-Strike",
+  "year": 2000,
+  "method": "llm"
+ },
+ "crazy machines": {
+  "key": "igdb:4777",
+  "name": "Crazy Machines",
+  "year": 2005,
+  "method": "exact"
+ },
+ "crimson desert": {
+  "key": "igdb:125633",
+  "name": "Crimson Desert Enhanced",
+  "year": 2026,
+  "method": "exact"
+ },
+ "cyber knights flashpoint": {
+  "key": "igdb:129596",
+  "name": "Cyber Knights: Flashpoint",
+  "year": 2025,
+  "method": "exact"
+ },
+ "cyberpunk 2077": {
+  "key": "igdb:1877",
+  "name": "Cyberpunk 2077",
+  "year": 2020,
+  "method": "exact"
+ },
+ "dark souls": {
+  "key": "igdb:2155",
+  "name": "Dark Souls",
+  "year": 2011,
+  "method": "exact"
+ },
+ "dawncaster": {
+  "key": "igdb:175097",
+  "name": "Dawncaster: Deckbuilding RPG",
+  "year": 2021,
+  "method": "llm"
+ },
+ "death howl": {
+  "key": "igdb:328347",
+  "name": "Death Howl",
+  "year": 2025,
+  "method": "exact"
+ },
+ "death s door": {
+  "key": "igdb:145099",
+  "name": "Death's Door",
+  "year": 2021,
+  "method": "exact"
+ },
+ "deck of haunts": {
+  "key": "igdb:320726",
+  "name": "Deck of Haunts",
+  "year": 2025,
+  "method": "exact"
+ },
+ "deep rock galactic survivor": {
+  "key": "igdb:240556",
+  "name": "Deep Rock Galactic: Survivor",
+  "year": 2025,
+  "method": "exact"
+ },
+ "derelikt": {
+  "key": "igdb:206842",
+  "name": "Derelikt",
+  "year": 2026,
+  "method": "exact"
+ },
+ "deus ex": {
+  "key": "igdb:41",
+  "name": "Deus Ex",
+  "year": 2000,
+  "method": "llm"
+ },
+ "disco elysium": {
+  "key": "igdb:26472",
+  "name": "Disco Elysium",
+  "year": 2019,
+  "method": "llm"
+ },
+ "doom": {
+  "key": "title:doom",
+  "name": "Doom",
+  "year": null,
+  "method": "unresolved"
+ },
+ "dragon age": {
+  "key": "title:dragon age",
+  "name": "Dragon Age",
+  "year": null,
+  "method": "unresolved"
+ },
+ "due process": {
+  "key": "igdb:60900",
+  "name": "Due Process",
+  "year": 2020,
+  "method": "exact"
+ },
+ "dusk": {
+  "key": "igdb:25260",
+  "name": "Dusk",
+  "year": 2018,
+  "method": "exact"
+ },
+ "elder scrolls 5 skyrim": {
+  "key": "igdb:472",
+  "name": "The Elder Scrolls V: Skyrim",
+  "year": 2011,
+  "method": "llm"
+ },
+ "elsinore": {
+  "key": "igdb:58994",
+  "name": "Elsinore",
+  "year": 2019,
+  "method": "exact"
+ },
+ "enderal forgotten stories special edition": {
+  "key": "igdb:153743",
+  "name": "Enderal: Forgotten Stories - Special Edition",
+  "year": 2021,
+  "method": "exact"
+ },
+ "endless legend": {
+  "key": "igdb:9278",
+  "name": "Endless Legend",
+  "year": 2014,
+  "method": "exact"
+ },
+ "escape academy 2": {
+  "key": "igdb:347671",
+  "name": "Escape Academy 2: Back 2 School",
+  "year": 2026,
+  "method": "llm"
+ },
+ "euro truck simulator 2": {
+  "key": "igdb:3070",
+  "name": "Euro Truck Simulator 2",
+  "year": 2012,
+  "method": "exact"
+ },
+ "euro truck simulator 2 coaches": {
+  "key": "igdb:349790",
+  "name": "Euro Truck Simulator 2: Coaches",
+  "year": 2026,
+  "method": "exact"
+ },
+ "ever after again a stories adventure": {
+  "key": "igdb:414459",
+  "name": "Ever After Again: A Stories Adventure",
+  "year": null,
+  "method": "exact"
+ },
+ "eye of the beholder": {
+  "key": "igdb:5384",
+  "name": "Eye of the Beholder",
+  "year": 1991,
+  "method": "llm"
+ },
+ "f e a r 2 project origin": {
+  "key": "igdb:520",
+  "name": "F.E.A.R. 2: Project Origin",
+  "year": 2009,
+  "method": "exact"
+ },
+ "f e a r 3": {
+  "key": "igdb:514",
+  "name": "F.E.A.R. 3",
+  "year": 2011,
+  "method": "exact"
+ },
+ "fallout 2": {
+  "key": "igdb:14",
+  "name": "Fallout 2",
+  "year": 1998,
+  "method": "exact"
+ },
+ "fallout 4": {
+  "key": "igdb:9630",
+  "name": "Fallout 4",
+  "year": 2015,
+  "method": "exact"
+ },
+ "fate of the galaxy": {
+  "key": "igdb:426713",
+  "name": "Fate of the Galaxy",
+  "year": 2026,
+  "method": "exact"
+ },
+ "final fantasy 10": {
+  "key": "igdb:21899",
+  "name": "Final Fantasy X HD Remaster",
+  "year": 2013,
+  "method": "llm"
+ },
+ "final fantasy 7": {
+  "key": "igdb:427",
+  "name": "Final Fantasy VII",
+  "year": 1997,
+  "method": "llm"
+ },
+ "final fantasy 7 remake": {
+  "key": "igdb:11169",
+  "name": "Final Fantasy VII Remake",
+  "year": 2020,
+  "method": "exact"
+ },
+ "final fantasy 8": {
+  "key": "igdb:425",
+  "name": "Final Fantasy VIII",
+  "year": 1999,
+  "method": "llm"
+ },
+ "final fantasy resonance": {
+  "key": "igdb:405454",
+  "name": "Final Fantasy Resonance",
+  "year": 2026,
+  "method": "exact"
+ },
+ "flappy bird": {
+  "key": "igdb:270226",
+  "name": "Flappy Bird",
+  "year": 2014,
+  "method": "llm"
+ },
+ "fortnite": {
+  "key": "igdb:1905",
+  "name": "Fortnite",
+  "year": 2020,
+  "method": "llm"
+ },
+ "freelancer": {
+  "key": "igdb:2124",
+  "name": "Freelancer",
+  "year": 2003,
+  "method": "exact"
+ },
+ "freespace 2": {
+  "key": "igdb:722",
+  "name": "Freespace 2",
+  "year": 1999,
+  "method": "exact"
+ },
+ "funeral for the sun": {
+  "key": "igdb:385063",
+  "name": "Funeral for the Sun",
+  "year": 2026,
+  "method": "exact"
+ },
+ "gears of war e day": {
+  "key": "igdb:305160",
+  "name": "Gears of War: E-Day",
+  "year": 2026,
+  "method": "exact"
+ },
+ "genshin impact": {
+  "key": "title:genshin impact",
+  "name": "Genshin Impact",
+  "year": null,
+  "method": "unresolved"
+ },
+ "going medieval": {
+  "key": "igdb:115555",
+  "name": "Going Medieval",
+  "year": 2026,
+  "method": "exact"
+ },
+ "gothic": {
+  "key": "igdb:2261",
+  "name": "Gothic",
+  "year": 2001,
+  "method": "exact"
+ },
+ "grand theft auto 6": {
+  "key": "igdb:52189",
+  "name": "Grand Theft Auto VI",
+  "year": 2026,
+  "method": "exact"
+ },
+ "grim dawn": {
+  "key": "igdb:1907",
+  "name": "Grim Dawn",
+  "year": 2016,
+  "method": "exact"
+ },
+ "gunner heat pc": {
+  "key": "igdb:146417",
+  "name": "Gunner, Heat, PC!",
+  "year": 2022,
+  "method": "exact"
+ },
+ "haak": {
+  "key": "igdb:138242",
+  "name": "Haak",
+  "year": 2022,
+  "method": "exact"
+ },
+ "half life": {
+  "key": "igdb:231",
+  "name": "Half-Life",
+  "year": 1998,
+  "method": "llm"
+ },
+ "half life alyx": {
+  "key": "igdb:126098",
+  "name": "Half-Life: Alyx",
+  "year": 2020,
+  "method": "exact"
+ },
+ "half life decay": {
+  "key": "igdb:6738",
+  "name": "Half-Life: Decay",
+  "year": 2001,
+  "method": "exact"
+ },
+ "halo combat evolved": {
+  "key": "igdb:740",
+  "name": "Halo: Combat Evolved",
+  "year": 2001,
+  "method": "exact"
+ },
+ "helldivers 2": {
+  "key": "igdb:250616",
+  "name": "Helldivers 2",
+  "year": 2024,
+  "method": "exact"
+ },
+ "heroes of might and magic 2": {
+  "key": "igdb:363",
+  "name": "Heroes of Might and Magic II: The Succession Wars",
+  "year": 1996,
+  "method": "llm"
+ },
+ "heroes of might and magic 3": {
+  "key": "igdb:364",
+  "name": "Heroes of Might and Magic III: The Restoration of Erathia",
+  "year": 1999,
+  "method": "exact"
+ },
+ "hexen beyond heretic": {
+  "key": "igdb:3512",
+  "name": "Hexen: Beyond Heretic",
+  "year": 1995,
+  "method": "llm"
+ },
+ "hollow knight": {
+  "key": "igdb:14593",
+  "name": "Hollow Knight",
+  "year": 2017,
+  "method": "llm"
+ },
+ "horses of hoofprint bay": {
+  "key": "igdb:376483",
+  "name": "Horses of Hoofprint Bay",
+  "year": null,
+  "method": "exact"
+ },
+ "incident at galley house": {
+  "key": "igdb:350434",
+  "name": "The Incident at Galley House",
+  "year": 2026,
+  "method": "exact"
+ },
+ "incredible machine": {
+  "key": "igdb:4243",
+  "name": "The Incredible Machine",
+  "year": 1992,
+  "method": "exact"
+ },
+ "inscryption": {
+  "key": "igdb:139090",
+  "name": "Inscryption",
+  "year": 2021,
+  "method": "exact"
+ },
+ "insurgency sandstorm": {
+  "key": "igdb:18088",
+  "name": "Insurgency: Sandstorm",
+  "year": 2018,
+  "method": "exact"
+ },
+ "invincible": {
+  "key": "igdb:138906",
+  "name": "The Invincible",
+  "year": 2023,
+  "method": "llm"
+ },
+ "is this seat taken": {
+  "key": "igdb:329865",
+  "name": "Is This Seat Taken?",
+  "year": 2025,
+  "method": "exact"
+ },
+ "jade empire": {
+  "key": "igdb:5867",
+  "name": "Jade Empire",
+  "year": 2005,
+  "method": "exact"
+ },
+ "journey": {
+  "key": "title:journey",
+  "name": "Journey",
+  "year": null,
+  "method": "unresolved"
+ },
+ "katana zero": {
+  "key": "igdb:20150",
+  "name": "Katana Zero",
+  "year": 2019,
+  "method": "exact"
+ },
+ "keywe": {
+  "key": "igdb:117422",
+  "name": "KeyWe",
+  "year": 2021,
+  "method": "exact"
+ },
+ "kiborg": {
+  "key": "igdb:249998",
+  "name": "Kiborg",
+  "year": 2025,
+  "method": "exact"
+ },
+ "kingdom": {
+  "key": "title:kingdom",
+  "name": "Kingdom",
+  "year": null,
+  "method": "unresolved"
+ },
+ "lands of lore the throne of chaos": {
+  "key": "igdb:2528",
+  "name": "Lands of Lore: The Throne of Chaos",
+  "year": 1993,
+  "method": "exact"
+ },
+ "legend of grimrock": {
+  "key": "igdb:6328",
+  "name": "Legend of Grimrock",
+  "year": 2012,
+  "method": "exact"
+ },
+ "legend of heroes trails from zero": {
+  "key": "igdb:23322",
+  "name": "The Legend of Heroes: Trails from Zero",
+  "year": 2020,
+  "method": "exact"
+ },
+ "legend of zelda ocarina of time": {
+  "key": "igdb:405460",
+  "name": "The Legend of Zelda: Ocarina of Time",
+  "year": 2026,
+  "method": "llm"
+ },
+ "legend of zelda ocarina of time remake": {
+  "key": "title:legend of zelda ocarina of time remake",
+  "name": "The Legend of Zelda: Ocarina of Time Remake",
+  "year": null,
+  "method": "unresolved"
+ },
+ "like a dragon ishin": {
+  "key": "igdb:12736",
+  "name": "Ryuu ga Gotoku Ishin!",
+  "year": 2014,
+  "method": "llm"
+ },
+ "little nightmares 3": {
+  "key": "igdb:262529",
+  "name": "Little Nightmares III",
+  "year": 2025,
+  "method": "exact"
+ },
+ "marvel s midnight suns": {
+  "key": "igdb:165347",
+  "name": "Marvel's Midnight Suns",
+  "year": 2022,
+  "method": "exact"
+ },
+ "marvel s wolverine": {
+  "key": "igdb:168667",
+  "name": "Marvel's Wolverine",
+  "year": 2026,
+  "method": "exact"
+ },
+ "mass effect": {
+  "key": "igdb:73",
+  "name": "Mass Effect",
+  "year": 2007,
+  "method": "exact"
+ },
+ "mass effect 2": {
+  "key": "igdb:74",
+  "name": "Mass Effect 2",
+  "year": 2010,
+  "method": "llm"
+ },
+ "meccha chameleon": {
+  "key": "igdb:405028",
+  "name": "Meccha Chameleon",
+  "year": 2026,
+  "method": "exact"
+ },
+ "message from deep space": {
+  "key": "igdb:406341",
+  "name": "The Message From Deep Space",
+  "year": 2026,
+  "method": "exact"
+ },
+ "metro last light redux": {
+  "key": "igdb:50199",
+  "name": "Metro: Last Light Redux",
+  "year": 2014,
+  "method": "exact"
+ },
+ "metroid prime": {
+  "key": "igdb:1105",
+  "name": "Metroid Prime",
+  "year": 2002,
+  "method": "llm"
+ },
+ "metroid prime 2 echoes": {
+  "key": "igdb:1108",
+  "name": "Metroid Prime 2: Echoes",
+  "year": 2004,
+  "method": "llm"
+ },
+ "metroid prime 3 corruption": {
+  "key": "igdb:1111",
+  "name": "Metroid Prime 3: Corruption",
+  "year": 2007,
+  "method": "exact"
+ },
+ "might and magic": {
+  "key": "title:might and magic",
+  "name": "Might and Magic",
+  "year": null,
+  "method": "unresolved"
+ },
+ "might and magic 10 legacy": {
+  "key": "igdb:5641",
+  "name": "Might & Magic X: Legacy",
+  "year": 2014,
+  "method": "exact"
+ },
+ "might and magic 4 clouds of xeen": {
+  "key": "igdb:7736",
+  "name": "Might and Magic IV: Clouds of Xeen",
+  "year": 1992,
+  "method": "exact"
+ },
+ "might and magic 6 the mandate of heaven": {
+  "key": "igdb:790",
+  "name": "Might and Magic VI: The Mandate of Heaven",
+  "year": 1998,
+  "method": "exact"
+ },
+ "minecraft": {
+  "key": "igdb:135400",
+  "name": "Minecraft",
+  "year": 2016,
+  "method": "exact"
+ },
+ "minecraft dungeons 2": {
+  "key": "igdb:395525",
+  "name": "Minecraft Dungeons II",
+  "year": 2026,
+  "method": "exact"
+ },
+ "monster hunter generations ultimate": {
+  "key": "igdb:25623",
+  "name": "Monster Hunter Generations Ultimate",
+  "year": 2017,
+  "method": "exact"
+ },
+ "monster train": {
+  "key": "igdb:129483",
+  "name": "Monster Train",
+  "year": 2020,
+  "method": "exact"
+ },
+ "mycopunk": {
+  "key": "igdb:342011",
+  "name": "Mycopunk",
+  "year": 2026,
+  "method": "exact"
+ },
+ "nivalis": {
+  "key": "igdb:203301",
+  "name": "Nivalis Nights",
+  "year": 2026,
+  "method": "exact"
+ },
+ "nonogram detective": {
+  "key": "igdb:423599",
+  "name": "Nonogram Detective",
+  "year": 2026,
+  "method": "exact"
+ },
+ "norco": {
+  "key": "igdb:129097",
+  "name": "Norco",
+  "year": 2022,
+  "method": "exact"
+ },
+ "nyt crossplay": {
+  "key": "igdb:387535",
+  "name": "NYT Crossplay: Play and Spell",
+  "year": 2026,
+  "method": "llm"
+ },
+ "omensight": {
+  "key": "igdb:80916",
+  "name": "Omensight",
+  "year": 2018,
+  "method": "exact"
+ },
+ "one night stand": {
+  "key": "igdb:25776",
+  "name": "One Night Stand",
+  "year": 2016,
+  "method": "exact"
+ },
+ "operation na pali": {
+  "key": "igdb:261021",
+  "name": "Unreal: Operation Na Pali",
+  "year": 2002,
+  "method": "llm"
+ },
+ "operencia the stolen sun": {
+  "key": "igdb:113212",
+  "name": "Operencia: The Stolen Sun",
+  "year": 2019,
+  "method": "exact"
+ },
+ "order of the sinking star": {
+  "key": "igdb:381222",
+  "name": "Order of the Sinking Star",
+  "year": 2026,
+  "method": "exact"
+ },
+ "over the hill": {
+  "key": "igdb:329124",
+  "name": "Over the Hill",
+  "year": 2026,
+  "method": "exact"
+ },
+ "penguin colony": {
+  "key": "igdb:354409",
+  "name": "Penguin Colony",
+  "year": 2026,
+  "method": "exact"
+ },
+ "pistol whip": {
+  "key": "igdb:119341",
+  "name": "Pistol Whip",
+  "year": 2019,
+  "method": "exact"
+ },
+ "planescape torment": {
+  "key": "igdb:832",
+  "name": "Planescape: Torment",
+  "year": 1999,
+  "method": "exact"
+ },
+ "quake": {
+  "key": "igdb:333",
+  "name": "Quake",
+  "year": 1996,
+  "method": "llm"
+ },
+ "queen s domain": {
+  "key": "igdb:258775",
+  "name": "Queen's Domain",
+  "year": 2026,
+  "method": "exact"
+ },
+ "reanimal": {
+  "key": "igdb:314265",
+  "name": "Reanimal",
+  "year": 2026,
+  "method": "exact"
+ },
+ "reka": {
+  "key": "igdb:211347",
+  "name": "Reka",
+  "year": 2026,
+  "method": "exact"
+ },
+ "resident evil requiem": {
+  "key": "igdb:347668",
+  "name": "Resident Evil Requiem",
+  "year": 2026,
+  "method": "exact"
+ },
+ "returnal": {
+  "key": "igdb:134584",
+  "name": "Returnal",
+  "year": 2021,
+  "method": "exact"
+ },
+ "reverse 1999": {
+  "key": "igdb:188383",
+  "name": "Reverse: 1999",
+  "year": 2023,
+  "method": "exact"
+ },
+ "rise of the triad": {
+  "key": "igdb:2380",
+  "name": "Rise of the Triad: Dark War",
+  "year": 1994,
+  "method": "llm"
+ },
+ "risk of rain": {
+  "key": "igdb:3173",
+  "name": "Risk of Rain",
+  "year": 2013,
+  "method": "exact"
+ },
+ "roottrees are dead": {
+  "key": "igdb:288983",
+  "name": "The Roottrees Are Dead",
+  "year": 2025,
+  "method": "llm"
+ },
+ "ryu ga gotoku kenzan": {
+  "key": "igdb:7442",
+  "name": "Ryuu ga Gotoku Kenzan!",
+  "year": 2008,
+  "method": "exact"
+ },
+ "saros": {
+  "key": "igdb:331215",
+  "name": "Saros",
+  "year": 2026,
+  "method": "exact"
+ },
+ "sekiro shadows die twice": {
+  "key": "igdb:76882",
+  "name": "Sekiro: Shadows Die Twice",
+  "year": 2019,
+  "method": "exact"
+ },
+ "selaco": {
+  "key": "igdb:145828",
+  "name": "Selaco",
+  "year": 2024,
+  "method": "exact"
+ },
+ "sewer jam 3": {
+  "key": "title:sewer jam 3",
+  "name": "Sewer Jam 3",
+  "year": null,
+  "method": "unresolved"
+ },
+ "signet city": {
+  "key": "igdb:405150",
+  "name": "Signet City",
+  "year": null,
+  "method": "exact"
+ },
+ "silent hill townfall": {
+  "key": "igdb:222342",
+  "name": "Silent Hill: Townfall",
+  "year": 2026,
+  "method": "exact"
+ },
+ "squeakross home squeak home": {
+  "key": "igdb:305074",
+  "name": "Squeakross: Home Squeak Home",
+  "year": 2025,
+  "method": "exact"
+ },
+ "standing stones": {
+  "key": "igdb:24786",
+  "name": "The Standing Stones",
+  "year": 1983,
+  "method": "exact"
+ },
+ "star birds": {
+  "key": "igdb:305171",
+  "name": "Star Birds",
+  "year": 2025,
+  "method": "exact"
+ },
+ "star wars knights of the old republic": {
+  "key": "igdb:116",
+  "name": "Star Wars: Knights of the Old Republic",
+  "year": 2003,
+  "method": "llm"
+ },
+ "star wars knights of the old republic 2 the sith lords": {
+  "key": "igdb:118",
+  "name": "Star Wars: Knights of the Old Republic II - The Sith Lords",
+  "year": 2004,
+  "method": "exact"
+ },
+ "star wars outlaws": {
+  "key": "igdb:252827",
+  "name": "Star Wars Outlaws",
+  "year": 2024,
+  "method": "exact"
+ },
+ "star wars tie fighter": {
+  "key": "igdb:166",
+  "name": "Star Wars: TIE Fighter",
+  "year": 1994,
+  "method": "exact"
+ },
+ "stardew valley": {
+  "key": "igdb:17000",
+  "name": "Stardew Valley",
+  "year": 2016,
+  "method": "exact"
+ },
+ "starfield": {
+  "key": "igdb:96437",
+  "name": "Starfield",
+  "year": 2023,
+  "method": "exact"
+ },
+ "starship evo": {
+  "key": "igdb:138009",
+  "name": "Starship EVO",
+  "year": 2020,
+  "method": "exact"
+ },
+ "stasis bone totem": {
+  "key": "igdb:140866",
+  "name": "Stasis: Bone Totem",
+  "year": 2023,
+  "method": "exact"
+ },
+ "stories the path of destinies": {
+  "key": "igdb:12815",
+  "name": "Stories: The Path of Destinies",
+  "year": 2016,
+  "method": "exact"
+ },
+ "suffering": {
+  "key": "igdb:6180",
+  "name": "The Suffering",
+  "year": 2004,
+  "method": "llm"
+ },
+ "teardown": {
+  "key": "igdb:122666",
+  "name": "Teardown",
+  "year": 2022,
+  "method": "exact"
+ },
+ "thronefall": {
+  "key": "igdb:236547",
+  "name": "Thronefall",
+  "year": 2024,
+  "method": "exact"
+ },
+ "tinykin": {
+  "key": "igdb:152267",
+  "name": "Tinykin",
+  "year": 2022,
+  "method": "exact"
+ },
+ "underkeep": {
+  "key": "igdb:389458",
+  "name": "Underkeep",
+  "year": 2026,
+  "method": "llm"
+ },
+ "unreal": {
+  "key": "igdb:273",
+  "name": "Unreal",
+  "year": 1998,
+  "method": "llm"
+ },
+ "unreal redux": {
+  "key": "title:unreal redux",
+  "name": "Unreal Redux",
+  "year": null,
+  "method": "unresolved"
+ },
+ "unreal tournament": {
+  "key": "igdb:272",
+  "name": "Unreal Tournament",
+  "year": 1999,
+  "method": "llm"
+ },
+ "vampire survivors": {
+  "key": "igdb:186725",
+  "name": "Vampire Survivors",
+  "year": 2022,
+  "method": "llm"
+ },
+ "vampire the masquerade oaths and ashes": {
+  "key": "igdb:400121",
+  "name": "Vampire: The Masquerade - Oaths and Ashes",
+  "year": 2026,
+  "method": "exact"
+ },
+ "videoverse": {
+  "key": "igdb:213618",
+  "name": "Videoverse",
+  "year": 2023,
+  "method": "exact"
+ },
+ "village in the shade": {
+  "key": "igdb:358537",
+  "name": "Village in the Shade",
+  "year": 2026,
+  "method": "exact"
+ },
+ "warhammer 40 000 rogue trader": {
+  "key": "igdb:203259",
+  "name": "Warhammer 40,000: Rogue Trader",
+  "year": 2023,
+  "method": "exact"
+ },
+ "warhammer survivors": {
+  "key": "igdb:376145",
+  "name": "Warhammer Survivors",
+  "year": 2026,
+  "method": "exact"
+ },
+ "whisker wanderlust the wondrous journey": {
+  "key": "igdb:349100",
+  "name": "Whisker Wanderlust: The Wondrous Journey",
+  "year": 2025,
+  "method": "exact"
+ },
+ "wizardry": {
+  "key": "title:wizardry",
+  "name": "Wizardry",
+  "year": null,
+  "method": "unresolved"
+ },
+ "world of warcraft": {
+  "key": "igdb:123",
+  "name": "World of Warcraft",
+  "year": 2004,
+  "method": "exact"
+ },
+ "world of warcraft classic": {
+  "key": "igdb:75379",
+  "name": "World of Warcraft Classic",
+  "year": 2019,
+  "method": "exact"
+ },
+ "world of warcraft wrath of the lich king": {
+  "key": "igdb:228",
+  "name": "World of Warcraft: Wrath of the Lich King",
+  "year": 2008,
+  "method": "exact"
+ },
+ "yakuza 0": {
+  "key": "igdb:11397",
+  "name": "Yakuza 0",
+  "year": 2015,
+  "method": "exact"
+ },
+ "yakuza 3": {
+  "key": "igdb:2061",
+  "name": "Yakuza 3",
+  "year": 2009,
+  "method": "exact"
+ },
+ "yakuza 4": {
+  "key": "igdb:2062",
+  "name": "Yakuza 4",
+  "year": 2010,
+  "method": "exact"
+ },
+ "yakuza 5": {
+  "key": "igdb:2063",
+  "name": "Yakuza 5",
+  "year": 2012,
+  "method": "exact"
+ },
+ "yakuza kiwami": {
+  "key": "igdb:12595",
+  "name": "Yakuza Kiwami",
+  "year": 2016,
+  "method": "exact"
+ },
+ "ys 10 nordics": {
+  "key": "igdb:229176",
+  "name": "Ys X: Nordics",
+  "year": 2023,
+  "method": "exact"
+ },
+ "zefyr a thief s melody": {
+  "key": "igdb:211507",
+  "name": "Zefyr: A Thief's Melody",
+  "year": 2025,
+  "method": "exact"
+ },
+ "zombies aren t real": {
+  "key": "igdb:425594",
+  "name": "Zombies Aren't Real",
+  "year": 2026,
+  "method": "exact"
+ }
+}
