@@ -4,6 +4,11 @@
 **Latest thread:** [#408 · 14 Nov 2026](library/weeks/2026-11-14-408.md) — Queen's Domain, The Legend of Zelda: Ocarina of Time, Cyberpunk 2077, Control Resonant, Euro Truck Simulator 2
 
 **Library:** [Last 3 months](library/last-3-months.md) · [All weeks](library/index.md)
+
+<a href="library/last-3-months.md"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="library/charts/trends-dark.svg">
+  <img alt="Heatmap of the most-mentioned games per weekly thread over the last three months; the stronger the blue, the more commenters named the game that week" src="library/charts/trends-light.svg">
+</picture></a>
 <!-- library:end -->
 
 Extracts the games people mention in the comments of Rock Paper Shotgun's weekly
@@ -137,12 +142,10 @@ Everything under `library/` is generated. Don't edit the markdown by hand; it is
 | `library/weeks/<date>-<n>.md` | One page per thread: a ranked table plus the games mentioned only once |
 | `library/last-3-months.md` | Every thread from the 91 days up to the newest one, with unique players and mentioners counted across all of those weeks, plus what's new this week |
 | `library/index.md` | All threads, newest first, each with its top 3 games |
+| `library/charts/trends-{light,dark}.svg` | Heatmap of the 20 most-mentioned games in the three-month window, ordered by the week each one peaked. It's shown on the three-month page and at the top of this README, in light or dark to match the viewer's GitHub theme |
 
-The block at the top of this README is rewritten between the `<!-- library:start -->
-**Latest thread:** [#408 · 14 Nov 2026](library/weeks/2026-11-14-408.md) — Queen's Domain, The Legend of Zelda: Ocarina of Time, Cyberpunk 2077, Control Resonant, Euro Truck Simulator 2
-
-**Library:** [Last 3 months](library/last-3-months.md) · [All weeks](library/index.md)
-<!-- library:end -->` markers. Leave the markers in place.
+The block at the top of this README sits between two HTML comment markers, `library:start` and
+`library:end`, and is rewritten on every run. Leave the markers in place.
 
 ## Per-thread CSVs
 

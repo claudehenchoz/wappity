@@ -11,11 +11,13 @@ from collections import defaultdict
 from datetime import datetime, timedelta
 from pathlib import Path
 
+from . import chart
 from .pipeline import PLAYED, WeekResult
 
 WINDOW_DAYS = 91
 TOP_N_ROLLING = 50
 README_START, README_END = "<!-- library:start -->", "<!-- library:end -->"
+CHART = "charts/trends"  # -> charts/trends-light.svg, charts/trends-dark.svg
 
 
 # ---------------------------------------------------------------- helpers
@@ -105,10 +107,28 @@ def week_page(w: WeekResult, prev: WeekResult | None, nxt: WeekResult | None) ->
     return "\n".join(lines)
 
 
-def rolling_page(weeks: list[WeekResult]) -> str:
+def window_of(weeks: list[WeekResult]) -> list[WeekResult]:
+    cutoff = when(weeks[-1]) - timedelta(days=WINDOW_DAYS)
+    return [w for w in weeks if when(w) >= cutoff]
+
+
+def picture(prefix: str, alt: str) -> str:
+    """GitHub-markdown image that follows the viewer's light/dark setting."""
+    return "\n".join([
+        "<picture>",
+        f'  <source media="(prefers-color-scheme: dark)" srcset="{prefix}{CHART}-dark.svg">',
+        f'  <img alt="{alt}" src="{prefix}{CHART}-light.svg">',
+        "</picture>",
+    ])
+
+
+CHART_ALT = ("Heatmap of the most-mentioned games per weekly thread over the last three months; "
+             "the stronger the blue, the more commenters named the game that week")
+
+
+def rolling_page(weeks: list[WeekResult], grid: "chart.Grid") -> str:
     newest = weeks[-1]
-    cutoff = when(newest) - timedelta(days=WINDOW_DAYS)
-    window = [w for w in weeks if when(w) >= cutoff]
+    window = window_of(weeks)
 
     agg: dict[str, dict] = defaultdict(lambda: {"players": set(), "mentioners": set(), "weeks": []})
     names: dict[str, tuple[str, int | None]] = {}
@@ -129,6 +149,20 @@ def rolling_page(weeks: list[WeekResult]) -> str:
         "",
         f"{len(window)} thread{'s' if len(window) != 1 else ''} from {day(window[0])} to {day(newest)} · {len(agg)} games mentioned · "
         "[All weeks](index.md)",
+        "",
+        "## Rising and falling",
+        "",
+        f"The {len(grid.rows)} most-mentioned games, ordered by the week they peaked.",
+        "",
+        picture("", CHART_ALT),
+        "",
+        "<details><summary>Weekly numbers (commenters naming each game)</summary>",
+        "",
+        chart.table_md(grid),
+        "",
+        "</details>",
+        "",
+        "## Ranking",
         "",
         "| # | Game | Played by | Mentioned by | Weeks | First seen | Last seen |",
         "|--:|---|--:|--:|--:|---|---|",
@@ -170,6 +204,8 @@ def readme_block(weeks: list[WeekResult]) -> str:
         f"**Latest thread:** [{label(w)} · {day(w)}](library/weeks/{stem(w)}.md) — {top}",
         "",
         "**Library:** [Last 3 months](library/last-3-months.md) · [All weeks](library/index.md)",
+        "",
+        f'<a href="library/last-3-months.md">{picture("library/", CHART_ALT)}</a>',
         README_END,
     ])
 
@@ -177,7 +213,7 @@ def readme_block(weeks: list[WeekResult]) -> str:
 def update_readme(readme: Path, block: str) -> None:
     text = readme.read_text(encoding="utf-8")
     if README_START in text and README_END in text:
-        text = re.sub(re.escape(README_START) + r".*?" + re.escape(README_END), lambda _: block, text, flags=re.S)
+        text = re.sub(re.escape(README_START) + r".*?" + re.escape(README_END), lambda _: block, text, count=1, flags=re.S)
     else:  # insert right below the H1
         head, _, tail = text.partition("\n")
         text = f"{head}\n\n{block}\n{tail}"
@@ -192,7 +228,10 @@ def render(lib: Path, readme: Path) -> int:
         prev = weeks[i - 1] if i else None
         nxt = weeks[i + 1] if i + 1 < len(weeks) else None
         _write(lib / "weeks" / f"{stem(w)}.md", week_page(w, prev, nxt))
-    _write(lib / "last-3-months.md", rolling_page(weeks))
+    grid = chart.build_grid(window_of(weeks))
+    for mode in ("light", "dark"):
+        _write(lib / f"{CHART}-{mode}.svg", chart.svg(grid, mode))
+    _write(lib / "last-3-months.md", rolling_page(weeks, grid))
     _write(lib / "index.md", index_page(weeks))
     update_readme(readme, readme_block(weeks))
     return len(weeks)

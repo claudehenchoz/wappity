@@ -2,6 +2,44 @@
 
 13 threads from 22 Aug 2026 to 14 Nov 2026 · 1537 games mentioned · [All weeks](index.md)
 
+## Rising and falling
+
+The 20 most-mentioned games, ordered by the week they peaked.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="charts/trends-dark.svg">
+  <img alt="Heatmap of the most-mentioned games per weekly thread over the last three months; the stronger the blue, the more commenters named the game that week" src="charts/trends-light.svg">
+</picture>
+
+<details><summary>Weekly numbers (commenters naming each game)</summary>
+
+| Game | #396 | #397 | #398 | #399 | #400 | #401 | #402 | #403 | #404 | #405 | #406 | #407 | #408 | Total |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Big Walk | 10 | 4 | 5 | 5 | 2 | 5 | · | 4 | 2 | 1 | · | 1 | 1 | 40 |
+| Quake | 5 | · | 2 | 3 | 1 | 2 | 2 | 2 | 2 | 1 | · | 3 | 3 | 26 |
+| Control: Ultimate Edition | 4 | 7 | 1 | 1 | 1 | 7 | 6 | 5 | 2 | 3 | 1 | 1 | 1 | 40 |
+| Star Wars Zero Company | 2 | 7 | 2 | 6 | 2 | 1 | 1 | 4 | · | 1 | 1 | · | · | 27 |
+| Grand Theft Auto VI | · | 4 | · | 2 | 1 | · | 1 | · | · | 1 | 1 | 3 | 3 | 16 |
+| The Blood of Dawnwalker | 1 | 1 | 13 | 6 | 10 | 2 | 3 | 1 | 1 | 2 | 2 | 2 | 2 | 46 |
+| Star Wars Outlaws | 1 | 1 | · | 7 | 2 | 1 | 3 | 1 | 2 | · | · | 2 | 1 | 21 |
+| XCOM | 2 | 2 | 1 | 3 | 3 | 2 | 2 | 2 | · | · | · | · | · | 17 |
+| Onimusha: Way of the Sword | · | · | 3 | · | 4 | 4 | 3 | · | · | 1 | · | 1 | · | 16 |
+| Control Resonant | · | 2 | · | · | 1 | 11 | 11 | 10 | 7 | 7 | 4 | 1 | 3 | 57 |
+| Fire Emblem: Fortune's Weave | 1 | · | · | · | 4 | 5 | 2 | 3 | 4 | 2 | 3 | 2 | · | 26 |
+| Euro Truck Simulator 2 | 1 | · | · | · | 2 | 3 | · | · | 1 | 1 | 3 | 1 | 3 | 15 |
+| The Witcher 3: Wild Hunt | 1 | · | 2 | 4 | 5 | 1 | 11 | 3 | 5 | 2 | 2 | 5 | · | 41 |
+| Nivalis Nights | · | · | · | · | · | · | 10 | 5 | · | · | 1 | · | 1 | 17 |
+| Alpha Protocol | · | 2 | 1 | · | · | 5 | 8 | 1 | · | · | 1 | · | · | 18 |
+| Genshin Impact | · | 1 | 1 | 2 | 2 | 2 | 3 | 1 | 2 | 2 | 2 | 2 | 2 | 22 |
+| Cyberpunk 2077 | 1 | 1 | · | 5 | 2 | 1 | 5 | 6 | 5 | 4 | 6 | · | 4 | 40 |
+| Alan Wake | · | 1 | 1 | 2 | · | 1 | 1 | 2 | · | 2 | 4 | · | 1 | 15 |
+| Queen's Domain | · | · | · | · | · | · | · | · | · | 1 | 1 | 9 | 8 | 19 |
+| Dark Souls | 2 | · | 1 | 2 | · | 1 | 2 | · | 1 | 1 | 1 | 3 | 1 | 15 |
+
+</details>
+
+## Ranking
+
 | # | Game | Played by | Mentioned by | Weeks | First seen | Last seen |
 |--:|---|--:|--:|--:|---|---|
 | 1 | Control Resonant (2026) | 14 | 22 | 10 | [#397](weeks/2026-08-29-397.md) | [#408](weeks/2026-11-14-408.md) |
