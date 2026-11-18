@@ -1,0 +1,3288 @@
+{
+ "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-397",
+ "number": 397,
+ "thread_id": "pm4o3r",
+ "published": "2026-08-29T07:00:00+00:00",
+ "comment_count": 244,
+ "commenters": 66,
+ "games": [
+  {
+   "key": "igdb:279624",
+   "name": "Big Walk",
+   "year": 2026,
+   "players": 4,
+   "mentioners": 4,
+   "comments": 5,
+   "likes": 109
+  },
+  {
+   "key": "igdb:136604",
+   "name": "Control: Ultimate Edition",
+   "year": 2020,
+   "players": 3,
+   "mentioners": 7,
+   "comments": 9,
+   "likes": 53
+  },
+  {
+   "key": "igdb:340113",
+   "name": "Star Wars Zero Company",
+   "year": 2026,
+   "players": 2,
+   "mentioners": 7,
+   "comments": 9,
+   "likes": 103
+  },
+  {
+   "key": "igdb:228525",
+   "name": "Hades II",
+   "year": 2025,
+   "players": 2,
+   "mentioners": 3,
+   "comments": 3,
+   "likes": 15
+  },
+  {
+   "key": "igdb:131890",
+   "name": "Sea of Stars",
+   "year": 2023,
+   "players": 2,
+   "mentioners": 2,
+   "comments": 3,
+   "likes": 47
+  },
+  {
+   "key": "igdb:289696",
+   "name": "The Sinking City 2",
+   "year": 2026,
+   "players": 2,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 38
+  },
+  {
+   "key": "igdb:95407",
+   "name": "Encased",
+   "year": 2021,
+   "players": 2,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 35
+  },
+  {
+   "key": "igdb:113111",
+   "name": "Far Cry New Dawn",
+   "year": 2019,
+   "players": 2,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 30
+  },
+  {
+   "key": "igdb:279643",
+   "name": "The First Berserker: Khazan",
+   "year": 2025,
+   "players": 2,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 30
+  },
+  {
+   "key": "igdb:352878",
+   "name": "Clues By Sam",
+   "year": 2025,
+   "players": 2,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 29
+  },
+  {
+   "key": "igdb:285974",
+   "name": "Sandustry",
+   "year": 2026,
+   "players": 2,
+   "mentioners": 2,
+   "comments": 3,
+   "likes": 25
+  },
+  {
+   "key": "igdb:348168",
+   "name": "Resonance: A Plague Tale Legacy",
+   "year": 2026,
+   "players": 2,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 22
+  },
+  {
+   "key": "igdb:346233",
+   "name": "Dead Reset",
+   "year": 2025,
+   "players": 2,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 20
+  },
+  {
+   "key": "igdb:133004",
+   "name": "Assassin's Creed Valhalla",
+   "year": 2020,
+   "players": 2,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 17
+  },
+  {
+   "key": "title:s t a l k e r anomaly g a m m a",
+   "name": "S.T.A.L.K.E.R. Anomaly G.A.M.M.A.",
+   "year": null,
+   "players": 2,
+   "mentioners": 2,
+   "comments": 5,
+   "likes": 17
+  },
+  {
+   "key": "igdb:2539",
+   "name": "Alpha Protocol",
+   "year": 2010,
+   "players": 2,
+   "mentioners": 2,
+   "comments": 3,
+   "likes": 10
+  },
+  {
+   "key": "igdb:2004",
+   "name": "Torment: Tides of Numenera",
+   "year": 2017,
+   "players": 1,
+   "mentioners": 3,
+   "comments": 3,
+   "likes": 37
+  },
+  {
+   "key": "title:doom 2",
+   "name": "Doom II",
+   "year": null,
+   "players": 1,
+   "mentioners": 3,
+   "comments": 4,
+   "likes": 30
+  },
+  {
+   "key": "title:doom",
+   "name": "Doom",
+   "year": null,
+   "players": 1,
+   "mentioners": 3,
+   "comments": 4,
+   "likes": 26
+  },
+  {
+   "key": "igdb:251833",
+   "name": "Balatro",
+   "year": 2024,
+   "players": 1,
+   "mentioners": 2,
+   "comments": 3,
+   "likes": 32
+  },
+  {
+   "key": "igdb:17000",
+   "name": "Stardew Valley",
+   "year": 2016,
+   "players": 1,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 28
+  },
+  {
+   "key": "igdb:26845",
+   "name": "Fire Emblem: Three Houses",
+   "year": 2019,
+   "players": 1,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 27
+  },
+  {
+   "key": "igdb:101440",
+   "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+   "year": 2024,
+   "players": 1,
+   "mentioners": 2,
+   "comments": 4,
+   "likes": 23
+  },
+  {
+   "key": "igdb:320",
+   "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+   "year": 2007,
+   "players": 1,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 21
+  },
+  {
+   "key": "igdb:252837",
+   "name": "Still Wakes the Deep",
+   "year": 2024,
+   "players": 1,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 18
+  },
+  {
+   "key": "igdb:121763",
+   "name": "Syberia: The World Before",
+   "year": 2022,
+   "players": 1,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 1
+  },
+  {
+   "key": "igdb:102057",
+   "name": "Age of Wonders: Planetfall",
+   "year": 2019,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 30
+  },
+  {
+   "key": "igdb:56914",
+   "name": "Beautiful Desolation",
+   "year": 2020,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 30
+  },
+  {
+   "key": "igdb:111043",
+   "name": "Pax Nova",
+   "year": 2019,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 30
+  },
+  {
+   "key": "igdb:13232",
+   "name": "Technobabylon",
+   "year": 2015,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 30
+  },
+  {
+   "key": "igdb:239942",
+   "name": "The Thaumaturge",
+   "year": 2024,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 30
+  },
+  {
+   "key": "igdb:23974",
+   "name": "Deus Ex: Revision",
+   "year": 2015,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 26
+  },
+  {
+   "key": "igdb:990",
+   "name": "Halo: Reach",
+   "year": 2010,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 26
+  },
+  {
+   "key": "igdb:7348",
+   "name": "Halo: The Master Chief Collection",
+   "year": 2014,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 26
+  },
+  {
+   "key": "igdb:115309",
+   "name": "Suzerain",
+   "year": 2020,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 26
+  },
+  {
+   "key": "igdb:11061",
+   "name": "Hexcells Infinite",
+   "year": 2014,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 24
+  },
+  {
+   "key": "igdb:866",
+   "name": "Sid Meier's Civilization V",
+   "year": 2010,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 24
+  },
+  {
+   "key": "igdb:203259",
+   "name": "Warhammer 40,000: Rogue Trader",
+   "year": 2023,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 24
+  },
+  {
+   "key": "igdb:960",
+   "name": "Max Payne 3",
+   "year": 2012,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 22
+  },
+  {
+   "key": "igdb:112613",
+   "name": "Prodeus",
+   "year": 2022,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 22
+  },
+  {
+   "key": "igdb:298526",
+   "name": "Kingdom Come: Deliverance II",
+   "year": 2025,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 21
+  },
+  {
+   "key": "igdb:1911",
+   "name": "Path of Exile",
+   "year": 2013,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 21
+  },
+  {
+   "key": "igdb:228456",
+   "name": "Dwarf Fortress",
+   "year": 2022,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 20
+  },
+  {
+   "key": "igdb:152450",
+   "name": "Nightmare Frames",
+   "year": 2022,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 19
+  },
+  {
+   "key": "igdb:226035",
+   "name": "Fields of Mistria",
+   "year": 2026,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 18
+  },
+  {
+   "key": "igdb:298931",
+   "name": "Grim Dawn: Fangs of Asterkarn",
+   "year": 2026,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 18
+  },
+  {
+   "key": "igdb:27744",
+   "name": "House Flipper",
+   "year": 2018,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 2,
+   "likes": 18
+  },
+  {
+   "key": "igdb:18696",
+   "name": "Ridge Racer",
+   "year": 1993,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 18
+  },
+  {
+   "key": "igdb:1571",
+   "name": "Sega Rally Championship",
+   "year": 1994,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 18
+  },
+  {
+   "key": "igdb:19734",
+   "name": "Virtua Fighter",
+   "year": 1993,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 18
+  },
+  {
+   "key": "igdb:8172",
+   "name": "Virtua Racing",
+   "year": 1992,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 18
+  },
+  {
+   "key": "igdb:344050",
+   "name": "Syberia: Remastered",
+   "year": 2025,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 17
+  },
+  {
+   "key": "igdb:11133",
+   "name": "Dark Souls III",
+   "year": 2016,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 16
+  },
+  {
+   "key": "igdb:11156",
+   "name": "Horizon Zero Dawn",
+   "year": 2017,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 16
+  },
+  {
+   "key": "igdb:28540",
+   "name": "Assassin's Creed Origins",
+   "year": 2017,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 15
+  },
+  {
+   "key": "igdb:123",
+   "name": "World of Warcraft",
+   "year": 2004,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 15
+  },
+  {
+   "key": "igdb:228542",
+   "name": "Armored Core VI: Fires of Rubicon",
+   "year": 2023,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 14
+  },
+  {
+   "key": "igdb:130216",
+   "name": "Hardspace: Shipbreaker",
+   "year": 2022,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 14
+  },
+  {
+   "key": "igdb:252827",
+   "name": "Star Wars Outlaws",
+   "year": 2024,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 14
+  },
+  {
+   "key": "igdb:12503",
+   "name": "The Witcher 3: Wild Hunt - Hearts of Stone",
+   "year": 2015,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 14
+  },
+  {
+   "key": "igdb:97494",
+   "name": "Umamusume: Pretty Derby",
+   "year": 2021,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 14
+  },
+  {
+   "key": "igdb:275251",
+   "name": "Desktop Explorer",
+   "year": 2026,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 13
+  },
+  {
+   "key": "igdb:171215",
+   "name": "Outcast: A New Beginning",
+   "year": 2024,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 13
+  },
+  {
+   "key": "igdb:136805",
+   "name": "Phoenotopia: Awakening",
+   "year": 2020,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 13
+  },
+  {
+   "key": "igdb:261085",
+   "name": "Quake II",
+   "year": 2023,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 13
+  },
+  {
+   "key": "igdb:188383",
+   "name": "Reverse: 1999",
+   "year": 2023,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 13
+  },
+  {
+   "key": "igdb:3020",
+   "name": "Shadowrun Returns",
+   "year": 2013,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 13
+  },
+  {
+   "key": "igdb:190964",
+   "name": "Sorry We're Closed",
+   "year": 2024,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 13
+  },
+  {
+   "key": "igdb:3225",
+   "name": "No Man's Sky",
+   "year": 2016,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 12
+  },
+  {
+   "key": "igdb:387535",
+   "name": "NYT Crossplay: Play and Spell",
+   "year": 2026,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 12
+  },
+  {
+   "key": "title:tristram",
+   "name": "Tristram",
+   "year": null,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 12
+  },
+  {
+   "key": "igdb:141114",
+   "name": "007 First Light",
+   "year": 2026,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 11
+  },
+  {
+   "key": "igdb:152243",
+   "name": "Slime Rancher 2",
+   "year": 2025,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 11
+  },
+  {
+   "key": "igdb:150010",
+   "name": "Sonic Frontiers",
+   "year": 2022,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 11
+  },
+  {
+   "key": "igdb:110039",
+   "name": "A Space for the Unbound",
+   "year": 2023,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 10
+  },
+  {
+   "key": "igdb:177169",
+   "name": "Deliver At All Costs",
+   "year": 2025,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 10
+  },
+  {
+   "key": "igdb:325176",
+   "name": "Little Rocket Lab",
+   "year": 2025,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 10
+  },
+  {
+   "key": "igdb:76882",
+   "name": "Sekiro: Shadows Die Twice",
+   "year": 2019,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 10
+  },
+  {
+   "key": "igdb:384977",
+   "name": "Sovereign Tower",
+   "year": 2026,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 10
+  },
+  {
+   "key": "igdb:117170",
+   "name": "Stellar Blade",
+   "year": 2024,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 10
+  },
+  {
+   "key": "igdb:237349",
+   "name": "Tevi",
+   "year": 2023,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 10
+  },
+  {
+   "key": "igdb:313597",
+   "name": "Silver Pines",
+   "year": 2026,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 9
+  },
+  {
+   "key": "igdb:3189",
+   "name": "Project Zomboid",
+   "year": 2013,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 7
+  },
+  {
+   "key": "igdb:300976",
+   "name": "Assassin's Creed Shadows",
+   "year": 2025,
+   "players": 1,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 2
+  },
+  {
+   "key": "igdb:52189",
+   "name": "Grand Theft Auto VI",
+   "year": 2026,
+   "players": 0,
+   "mentioners": 4,
+   "comments": 4,
+   "likes": 77
+  },
+  {
+   "key": "igdb:103054",
+   "name": "Assassin's Creed Odyssey",
+   "year": 2018,
+   "players": 0,
+   "mentioners": 3,
+   "comments": 3,
+   "likes": 46
+  },
+  {
+   "key": "igdb:832",
+   "name": "Planescape: Torment",
+   "year": 1999,
+   "players": 0,
+   "mentioners": 3,
+   "comments": 3,
+   "likes": 37
+  },
+  {
+   "key": "title:fable 2026",
+   "name": "Fable (2026)",
+   "year": null,
+   "players": 0,
+   "mentioners": 3,
+   "comments": 3,
+   "likes": 33
+  },
+  {
+   "key": "igdb:185246",
+   "name": "Alan Wake II",
+   "year": 2023,
+   "players": 0,
+   "mentioners": 3,
+   "comments": 6,
+   "likes": 13
+  },
+  {
+   "key": "igdb:890",
+   "name": "Syberia",
+   "year": 2002,
+   "players": 0,
+   "mentioners": 3,
+   "comments": 4,
+   "likes": 4
+  },
+  {
+   "key": "title:xcom",
+   "name": "XCOM",
+   "year": null,
+   "players": 0,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 41
+  },
+  {
+   "key": "igdb:521",
+   "name": "Fable",
+   "year": 2004,
+   "players": 0,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 32
+  },
+  {
+   "key": "igdb:14593",
+   "name": "Hollow Knight",
+   "year": 2017,
+   "players": 0,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 27
+  },
+  {
+   "key": "igdb:28545",
+   "name": "Rabi-Ribi",
+   "year": 2016,
+   "players": 0,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 23
+  },
+  {
+   "key": "igdb:325609",
+   "name": "Dispatch",
+   "year": 2025,
+   "players": 0,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 11
+  },
+  {
+   "key": "igdb:56",
+   "name": "The Elder Scrolls III: Morrowind",
+   "year": 2002,
+   "players": 0,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 6
+  },
+  {
+   "key": "igdb:225582",
+   "name": "Control Resonant",
+   "year": 2026,
+   "players": 0,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 5
+  },
+  {
+   "key": "igdb:122313",
+   "name": "Control: AWE",
+   "year": 2020,
+   "players": 0,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 3
+  },
+  {
+   "key": "igdb:19",
+   "name": "Max Payne 2: The Fall of Max Payne",
+   "year": 2003,
+   "players": 0,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 3
+  },
+  {
+   "key": "igdb:733",
+   "name": "Grand Theft Auto: Vice City",
+   "year": 2002,
+   "players": 0,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 2
+  },
+  {
+   "key": "igdb:236",
+   "name": "Myst",
+   "year": 1993,
+   "players": 0,
+   "mentioners": 2,
+   "comments": 3,
+   "likes": 2
+  },
+  {
+   "key": "igdb:166722",
+   "name": "The Case of the Golden Idol",
+   "year": 2022,
+   "players": 0,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 2
+  },
+  {
+   "key": "igdb:1033",
+   "name": "The Legend of Zelda: The Wind Waker",
+   "year": 2002,
+   "players": 0,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 2
+  },
+  {
+   "key": "igdb:895",
+   "name": "The Longest Journey",
+   "year": 1999,
+   "players": 0,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 2
+  },
+  {
+   "key": "igdb:1871",
+   "name": "The Walking Dead",
+   "year": 2012,
+   "players": 0,
+   "mentioners": 2,
+   "comments": 3,
+   "likes": 2
+  },
+  {
+   "key": "igdb:9643",
+   "name": "Return of the Obra Dinn",
+   "year": 2018,
+   "players": 0,
+   "mentioners": 2,
+   "comments": 2,
+   "likes": 1
+  },
+  {
+   "key": "igdb:10344",
+   "name": "Galactic Civilizations",
+   "year": 2003,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 30
+  },
+  {
+   "key": "igdb:68",
+   "name": "Master of Orion II: Battle at Antares",
+   "year": 1996,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 30
+  },
+  {
+   "key": "igdb:863",
+   "name": "Sid Meier's Alpha Centauri",
+   "year": 1999,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 30
+  },
+  {
+   "key": "igdb:11582",
+   "name": "Stellaris",
+   "year": 2016,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 30
+  },
+  {
+   "key": "igdb:120654",
+   "name": "The Dungeon of Naheulbeuk: The Amulet of Chaos",
+   "year": 2020,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 30
+  },
+  {
+   "key": "igdb:126290",
+   "name": "Far Cry 6",
+   "year": 2021,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 29
+  },
+  {
+   "key": "igdb:165212",
+   "name": "The Vale: Shadow of the Crown",
+   "year": 2021,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 29
+  },
+  {
+   "key": "igdb:325599",
+   "name": "Stranger Than Heaven",
+   "year": 2027,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 27
+  },
+  {
+   "key": "igdb:9898",
+   "name": "Total War: Warhammer",
+   "year": 2016,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 27
+  },
+  {
+   "key": "igdb:381245",
+   "name": "Total War: Warhammer 40,000",
+   "year": null,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 27
+  },
+  {
+   "key": "igdb:393398",
+   "name": "Librarian: Tidy Up the Arcane Library!",
+   "year": 2026,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 26
+  },
+  {
+   "key": "igdb:411566",
+   "name": "Shelves and Sorcery: Tidy Up the Enchanted Shop",
+   "year": 2026,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 26
+  },
+  {
+   "key": "igdb:1877",
+   "name": "Cyberpunk 2077",
+   "year": 2020,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 24
+  },
+  {
+   "key": "igdb:133674",
+   "name": "Old World",
+   "year": 2021,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 24
+  },
+  {
+   "key": "igdb:381237",
+   "name": "Orbitals",
+   "year": 2026,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 24
+  },
+  {
+   "key": "igdb:7351",
+   "name": "Doom",
+   "year": 2016,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 23
+  },
+  {
+   "key": "igdb:280",
+   "name": "Doom 3",
+   "year": 2004,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 23
+  },
+  {
+   "key": "igdb:74904",
+   "name": "Amid Evil",
+   "year": 2019,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 22
+  },
+  {
+   "key": "igdb:164944",
+   "name": "Cultic",
+   "year": 2022,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 22
+  },
+  {
+   "key": "igdb:424",
+   "name": "Resident Evil",
+   "year": 1996,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 22
+  },
+  {
+   "key": "igdb:347668",
+   "name": "Resident Evil Requiem",
+   "year": 2026,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 22
+  },
+  {
+   "key": "igdb:55163",
+   "name": "Resident Evil Village",
+   "year": 2021,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 22
+  },
+  {
+   "key": "igdb:301298",
+   "name": "Deadlock",
+   "year": null,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 21
+  },
+  {
+   "key": "igdb:343166",
+   "name": "Hillthorn",
+   "year": 2026,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 21
+  },
+  {
+   "key": "igdb:4843",
+   "name": "Kingdom Come: Deliverance",
+   "year": 2018,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 21
+  },
+  {
+   "key": "igdb:319082",
+   "name": "Alien: Isolation 2",
+   "year": null,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 18
+  },
+  {
+   "key": "igdb:143061",
+   "name": "Coral Island",
+   "year": 2023,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 18
+  },
+  {
+   "key": "title:genshin impact",
+   "name": "Genshin Impact",
+   "year": null,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 2,
+   "likes": 18
+  },
+  {
+   "key": "igdb:27509",
+   "name": "Heaven's Vault",
+   "year": 2019,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 18
+  },
+  {
+   "key": "igdb:216718",
+   "name": "Tiny Bookshop",
+   "year": 2025,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 18
+  },
+  {
+   "key": "igdb:880",
+   "name": "Resident Evil 2",
+   "year": 1998,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 16
+  },
+  {
+   "key": "igdb:434",
+   "name": "Red Dead Redemption",
+   "year": 2010,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 14
+  },
+  {
+   "key": "igdb:298930",
+   "name": "Honkai: Star Rail - Then Wake to Weep",
+   "year": 2024,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 13
+  },
+  {
+   "key": "igdb:99071",
+   "name": "Hypnospace Outlaw",
+   "year": 2019,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 13
+  },
+  {
+   "key": "igdb:22704",
+   "name": "Orwell: Keeping an Eye on You",
+   "year": 2016,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 13
+  },
+  {
+   "key": "igdb:109595",
+   "name": "Sega Ages Lightening Force: Quest for the Darkstar",
+   "year": 2018,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 13
+  },
+  {
+   "key": "igdb:110060",
+   "name": "Sega Ages Thunder Force AC",
+   "year": 2020,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 13
+  },
+  {
+   "key": "igdb:110061",
+   "name": "Sega Ages: Sonic the Hedgehog 2",
+   "year": 2020,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 13
+  },
+  {
+   "key": "igdb:377314",
+   "name": "Trails in the Sky 2nd Chapter",
+   "year": 2026,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 13
+  },
+  {
+   "key": "igdb:224415",
+   "name": "Voices of the Void",
+   "year": null,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 13
+  },
+  {
+   "key": "igdb:152242",
+   "name": "A Plague Tale: Requiem",
+   "year": 2022,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 8
+  },
+  {
+   "key": "igdb:282831",
+   "name": "The Blood of Dawnwalker",
+   "year": 2026,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 8
+  },
+  {
+   "key": "igdb:26472",
+   "name": "Disco Elysium",
+   "year": 2019,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 5
+  },
+  {
+   "key": "igdb:9596",
+   "name": "Tibia",
+   "year": 1997,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 5
+  },
+  {
+   "key": "igdb:1062",
+   "name": "Alan Wake",
+   "year": 2010,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 2
+  },
+  {
+   "key": "igdb:1970",
+   "name": "Assassin's Creed IV Black Flag",
+   "year": 2013,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 2
+  },
+  {
+   "key": "igdb:18",
+   "name": "Max Payne",
+   "year": 2001,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 2
+  },
+  {
+   "key": "igdb:313179",
+   "name": "No Rest for the Living",
+   "year": 2024,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 2
+  },
+  {
+   "key": "igdb:9817",
+   "name": "Dark Fall",
+   "year": 2002,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 1
+  },
+  {
+   "key": "igdb:3907",
+   "name": "Eternal Darkness: Sanity's Requiem",
+   "year": 2002,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 1
+  },
+  {
+   "key": "igdb:720",
+   "name": "Freedom Force",
+   "year": 2002,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 1
+  },
+  {
+   "key": "igdb:1104",
+   "name": "Metroid Fusion",
+   "year": 2002,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 1
+  },
+  {
+   "key": "igdb:1105",
+   "name": "Metroid Prime",
+   "year": 2002,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 1
+  },
+  {
+   "key": "igdb:820",
+   "name": "No One Lives Forever 2: A Spy in H.A.R.M.'s Way",
+   "year": 2002,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 1
+  },
+  {
+   "key": "igdb:1289",
+   "name": "Ratchet & Clank",
+   "year": 2002,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 1
+  },
+  {
+   "key": "igdb:238",
+   "name": "Riven: The Sequel to Myst",
+   "year": 1997,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 1
+  },
+  {
+   "key": "igdb:27826",
+   "name": "Sam & Max: Save the World - Episode 1: Culture Shock",
+   "year": 2006,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 1
+  },
+  {
+   "key": "igdb:90558",
+   "name": "Satisfactory",
+   "year": 2024,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 1
+  },
+  {
+   "key": "igdb:134826",
+   "name": "Shapez",
+   "year": 2020,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 1
+  },
+  {
+   "key": "igdb:152",
+   "name": "Star Wars: Jedi Knight II - Jedi Outcast",
+   "year": 2002,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 1
+  },
+  {
+   "key": "igdb:1075",
+   "name": "Super Mario Sunshine",
+   "year": 2002,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 1
+  },
+  {
+   "key": "igdb:64",
+   "name": "Tales of Monkey Island",
+   "year": 2009,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 1
+  },
+  {
+   "key": "igdb:123775",
+   "name": "Tangle Tower",
+   "year": 2019,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 2,
+   "likes": 1
+  },
+  {
+   "key": "igdb:350434",
+   "name": "The Incident at Galley House",
+   "year": 2026,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 1
+  },
+  {
+   "key": "igdb:288983",
+   "name": "The Roottrees Are Dead",
+   "year": 2025,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 1
+  },
+  {
+   "key": "igdb:60",
+   "name": "The Secret of Monkey Island",
+   "year": 1990,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 1
+  },
+  {
+   "key": "igdb:378335",
+   "name": "TR-49",
+   "year": 2026,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 1
+  },
+  {
+   "key": "igdb:7477",
+   "name": "Valkyria Chronicles",
+   "year": 2008,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 1
+  },
+  {
+   "key": "igdb:132",
+   "name": "Warcraft III: Reign of Chaos",
+   "year": 2002,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 1
+  },
+  {
+   "key": "igdb:2209",
+   "name": "Atlantis: The Lost Tales",
+   "year": 1997,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 0
+  },
+  {
+   "key": "title:broken sword the shadow of the templars",
+   "name": "Broken Sword: The Shadow of the Templars",
+   "year": null,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 0
+  },
+  {
+   "key": "igdb:6325",
+   "name": "Gemini Rue",
+   "year": 2011,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 0
+  },
+  {
+   "key": "igdb:493",
+   "name": "Heavy Rain",
+   "year": 2010,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 0
+  },
+  {
+   "key": "igdb:109",
+   "name": "L.A. Noire",
+   "year": 2011,
+   "players": 0,
+   "mentioners": 1,
+   "comments": 1,
+   "likes": 0
+  }
+ ],
+ "mentions": [
+  {
+   "comment_id": "09re32m",
+   "author": "YakuzaFan",
+   "game_key": "igdb:11133",
+   "relation": "finished"
+  },
+  {
+   "comment_id": "09re3rj",
+   "author": "SpacemanSpiff",
+   "game_key": "igdb:103054",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "09re3rj",
+   "author": "SpacemanSpiff",
+   "game_key": "igdb:113111",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "09re3rj",
+   "author": "SpacemanSpiff",
+   "game_key": "igdb:126290",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "09re3rj",
+   "author": "SpacemanSpiff",
+   "game_key": "igdb:165212",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "09re3z9",
+   "author": "PeskyFletch",
+   "game_key": "igdb:2004",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "09re3z9",
+   "author": "PeskyFletch",
+   "game_key": "igdb:832",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "09re6p6",
+   "author": "kyle_ar",
+   "game_key": "igdb:1062",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "09re6p6",
+   "author": "kyle_ar",
+   "game_key": "igdb:122313",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "09re6p6",
+   "author": "kyle_ar",
+   "game_key": "igdb:136604",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "09relz9",
+   "author": "GrumpHope",
+   "game_key": "title:fable 2026",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "1yk639r",
+   "author": "SeekerX",
+   "game_key": "igdb:1033",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "1yk639r",
+   "author": "SeekerX",
+   "game_key": "igdb:1075",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "1yk639r",
+   "author": "SeekerX",
+   "game_key": "igdb:1104",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "1yk639r",
+   "author": "SeekerX",
+   "game_key": "igdb:1105",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "1yk639r",
+   "author": "SeekerX",
+   "game_key": "igdb:1289",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "1yk639r",
+   "author": "SeekerX",
+   "game_key": "igdb:132",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "1yk639r",
+   "author": "SeekerX",
+   "game_key": "igdb:152",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "1yk639r",
+   "author": "SeekerX",
+   "game_key": "igdb:236",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "1yk639r",
+   "author": "SeekerX",
+   "game_key": "igdb:238",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "1yk639r",
+   "author": "SeekerX",
+   "game_key": "igdb:3907",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "1yk639r",
+   "author": "SeekerX",
+   "game_key": "igdb:56",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "1yk639r",
+   "author": "SeekerX",
+   "game_key": "igdb:720",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "1yk639r",
+   "author": "SeekerX",
+   "game_key": "igdb:733",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "1yk639r",
+   "author": "SeekerX",
+   "game_key": "igdb:820",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "1yk639r",
+   "author": "SeekerX",
+   "game_key": "igdb:9817",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "1yk6544",
+   "author": "BlueTemplar",
+   "game_key": "igdb:131890",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "1yk6x47",
+   "author": "Lars Westergren",
+   "game_key": "igdb:298526",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "1yk6x47",
+   "author": "Lars Westergren",
+   "game_key": "igdb:301298",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "1yk6x47",
+   "author": "Lars Westergren",
+   "game_key": "igdb:340113",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "1yk6x47",
+   "author": "Lars Westergren",
+   "game_key": "igdb:343166",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "1yk6x47",
+   "author": "Lars Westergren",
+   "game_key": "igdb:4843",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "1yk6x47",
+   "author": "Lars Westergren",
+   "game_key": "title:xcom",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "1yk6xp5",
+   "author": "hughie522",
+   "game_key": "igdb:3189",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "1yk6xx5",
+   "author": "DiscordianGel",
+   "game_key": "igdb:141114",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "1yk6xx5",
+   "author": "DiscordianGel",
+   "game_key": "igdb:152243",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "202v40p",
+   "author": "aoanla",
+   "game_key": "title:doom",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "202v40p",
+   "author": "aoanla",
+   "game_key": "title:doom 2",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "202v4mk",
+   "author": "Nameless199x",
+   "game_key": "igdb:152242",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "202v4mk",
+   "author": "Nameless199x",
+   "game_key": "igdb:282831",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "202v4mk",
+   "author": "Nameless199x",
+   "game_key": "igdb:348168",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "202ve9p",
+   "author": "Musteriuz",
+   "game_key": "igdb:27744",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "202ve9p",
+   "author": "Musteriuz",
+   "game_key": "igdb:3225",
+   "relation": "finished"
+  },
+  {
+   "comment_id": "202ve9p",
+   "author": "Musteriuz",
+   "game_key": "igdb:352878",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "202ve9p",
+   "author": "Musteriuz",
+   "game_key": "title:genshin impact",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "202vz32",
+   "author": "Wall Jump Games",
+   "game_key": "igdb:136604",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "202vz32",
+   "author": "Wall Jump Games",
+   "game_key": "igdb:18",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "202vz32",
+   "author": "Wall Jump Games",
+   "game_key": "igdb:185246",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "202vz32",
+   "author": "Wall Jump Games",
+   "game_key": "igdb:19",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "202vz32",
+   "author": "Wall Jump Games",
+   "game_key": "igdb:225582",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "202vzmx",
+   "author": "Thinefort",
+   "game_key": "igdb:280",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "202vzmx",
+   "author": "Thinefort",
+   "game_key": "igdb:7351",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "202vzmx",
+   "author": "Thinefort",
+   "game_key": "title:doom",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "202vzmx",
+   "author": "Thinefort",
+   "game_key": "title:doom 2",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "202vzpl",
+   "author": "polarnomad",
+   "game_key": "title:s t a l k e r anomaly g a m m a",
+   "relation": "dropped"
+  },
+  {
+   "comment_id": "33y49rq",
+   "author": "Wall Jump Games",
+   "game_key": "igdb:136604",
+   "relation": "dropped"
+  },
+  {
+   "comment_id": "33y49rq",
+   "author": "Wall Jump Games",
+   "game_key": "igdb:340113",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "33y49rq",
+   "author": "Wall Jump Games",
+   "game_key": "igdb:381237",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "33y49rq",
+   "author": "Wall Jump Games",
+   "game_key": "igdb:52189",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "33y49yq",
+   "author": "SpacemanSpiff",
+   "game_key": "igdb:152450",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "40g7v1w",
+   "author": "GrumpHope",
+   "game_key": "igdb:251833",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "40gxyly",
+   "author": "Wall Jump Games",
+   "game_key": "igdb:185246",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "56k32pw",
+   "author": "BlueTemplar",
+   "game_key": "igdb:131890",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "56k34pw",
+   "author": "jimjamjimjam",
+   "game_key": "igdb:134826",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "56k34pw",
+   "author": "jimjamjimjam",
+   "game_key": "igdb:285974",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "56k34pw",
+   "author": "jimjamjimjam",
+   "game_key": "igdb:90558",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "56k34x1",
+   "author": "ShufflingMadness",
+   "game_key": "igdb:228525",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "6x1904q",
+   "author": "polarnomad",
+   "game_key": "igdb:101440",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "6x1904q",
+   "author": "polarnomad",
+   "game_key": "title:s t a l k e r anomaly g a m m a",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "6x190l3",
+   "author": "malkav11",
+   "game_key": "igdb:325609",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "6x190l3",
+   "author": "malkav11",
+   "game_key": "igdb:384977",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "6x190p6",
+   "author": "Thinefort",
+   "game_key": "igdb:313179",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "6x190p6",
+   "author": "Thinefort",
+   "game_key": "title:doom",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "6x190p6",
+   "author": "Thinefort",
+   "game_key": "title:doom 2",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "6x190y3",
+   "author": "AnotherNwah",
+   "game_key": "igdb:136604",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "6x190yq",
+   "author": "Wall Jump Games",
+   "game_key": "igdb:185246",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "6x19opv",
+   "author": "SeekerX",
+   "game_key": "igdb:122313",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "6x19opv",
+   "author": "SeekerX",
+   "game_key": "igdb:136604",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "6x19opv",
+   "author": "SeekerX",
+   "game_key": "igdb:185246",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "6x19re7",
+   "author": "MiniMatt",
+   "game_key": "igdb:340113",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "70k1399",
+   "author": "controlled_by_my_cats",
+   "game_key": "igdb:2539",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "70k1399",
+   "author": "controlled_by_my_cats",
+   "game_key": "igdb:313597",
+   "relation": "finished"
+  },
+  {
+   "comment_id": "70k13v1",
+   "author": "emily riposte",
+   "game_key": "igdb:285974",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "70k1gjj",
+   "author": "KingFunk",
+   "game_key": "igdb:120654",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "70k1gjj",
+   "author": "KingFunk",
+   "game_key": "igdb:131890",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "70k1gjj",
+   "author": "KingFunk",
+   "game_key": "igdb:239942",
+   "relation": "finished"
+  },
+  {
+   "comment_id": "70k1gm7",
+   "author": "kalirion",
+   "game_key": "igdb:150010",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "70k1gp2",
+   "author": "Halfbeliever",
+   "game_key": "igdb:325599",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "70k1gp2",
+   "author": "Halfbeliever",
+   "game_key": "igdb:381245",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "70k1gp2",
+   "author": "Halfbeliever",
+   "game_key": "igdb:521",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "70k1gp2",
+   "author": "Halfbeliever",
+   "game_key": "igdb:52189",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "70k1gp2",
+   "author": "Halfbeliever",
+   "game_key": "igdb:9898",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "70k1gp2",
+   "author": "Halfbeliever",
+   "game_key": "title:fable 2026",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "96mr2my",
+   "author": "polarnomad",
+   "game_key": "igdb:101440",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "96mrx9r",
+   "author": "polarnomad",
+   "game_key": "igdb:101440",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "96mrx9r",
+   "author": "polarnomad",
+   "game_key": "igdb:320",
+   "relation": "finished"
+  },
+  {
+   "comment_id": "96mrxj6",
+   "author": "Galactic Man",
+   "game_key": "igdb:102057",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "96mrxj6",
+   "author": "Galactic Man",
+   "game_key": "igdb:10344",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "96mrxj6",
+   "author": "Galactic Man",
+   "game_key": "igdb:111043",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "96mrxj6",
+   "author": "Galactic Man",
+   "game_key": "igdb:11582",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "96mrxj6",
+   "author": "Galactic Man",
+   "game_key": "igdb:13232",
+   "relation": "dropped"
+  },
+  {
+   "comment_id": "96mrxj6",
+   "author": "Galactic Man",
+   "game_key": "igdb:2004",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "96mrxj6",
+   "author": "Galactic Man",
+   "game_key": "igdb:279624",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "96mrxj6",
+   "author": "Galactic Man",
+   "game_key": "igdb:56914",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "96mrxj6",
+   "author": "Galactic Man",
+   "game_key": "igdb:68",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "96mrxj6",
+   "author": "Galactic Man",
+   "game_key": "igdb:832",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "96mrxj6",
+   "author": "Galactic Man",
+   "game_key": "igdb:863",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "96mrxj6",
+   "author": "Galactic Man",
+   "game_key": "igdb:95407",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "96mrxyl",
+   "author": "ElTiempo",
+   "game_key": "igdb:136604",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "e6jz76k",
+   "author": "Lumière",
+   "game_key": "igdb:171215",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "e6jz76k",
+   "author": "Lumière",
+   "game_key": "igdb:224415",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "e6jz76k",
+   "author": "Lumière",
+   "game_key": "igdb:261085",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "e6jz7l0",
+   "author": "malkav11",
+   "game_key": "igdb:188383",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "e6jz7l0",
+   "author": "malkav11",
+   "game_key": "igdb:298930",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "e6jz7l0",
+   "author": "malkav11",
+   "game_key": "igdb:3020",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "e6jz7o4",
+   "author": "Tomato Can",
+   "game_key": "igdb:121763",
+   "relation": "finished"
+  },
+  {
+   "comment_id": "e6jz7o4",
+   "author": "Tomato Can",
+   "game_key": "igdb:890",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "e6jzqk4",
+   "author": "Petar Zvezdanov",
+   "game_key": "igdb:112613",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "e6jzqk4",
+   "author": "Petar Zvezdanov",
+   "game_key": "igdb:164944",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "e6jzqk4",
+   "author": "Petar Zvezdanov",
+   "game_key": "igdb:289696",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "e6jzqk4",
+   "author": "Petar Zvezdanov",
+   "game_key": "igdb:347668",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "e6jzqk4",
+   "author": "Petar Zvezdanov",
+   "game_key": "igdb:424",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "e6jzqk4",
+   "author": "Petar Zvezdanov",
+   "game_key": "igdb:52189",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "e6jzqk4",
+   "author": "Petar Zvezdanov",
+   "game_key": "igdb:55163",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "e6jzqk4",
+   "author": "Petar Zvezdanov",
+   "game_key": "igdb:74904",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "e6jzqk4",
+   "author": "Petar Zvezdanov",
+   "game_key": "igdb:960",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "gkj9759",
+   "author": "particlese",
+   "game_key": "igdb:11156",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "gkj97vp",
+   "author": "KingFunk",
+   "game_key": "igdb:340113",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "gkj9e3p",
+   "author": "Atomica",
+   "game_key": "igdb:434",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "gkj9e3p",
+   "author": "Atomica",
+   "game_key": "title:s t a l k e r anomaly g a m m a",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "gkj9egl",
+   "author": "Big Dunc",
+   "game_key": "igdb:103054",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "gkj9egl",
+   "author": "Big Dunc",
+   "game_key": "igdb:133004",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "gkj9egl",
+   "author": "Big Dunc",
+   "game_key": "igdb:28540",
+   "relation": "finished"
+  },
+  {
+   "comment_id": "gkj9eol",
+   "author": "SpacemanSpiff",
+   "game_key": "igdb:346233",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "gkj9er9",
+   "author": "Calmputer",
+   "game_key": "igdb:14593",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "gkj9er9",
+   "author": "Calmputer",
+   "game_key": "igdb:23974",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "gkj9er9",
+   "author": "Calmputer",
+   "game_key": "igdb:393398",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "gkj9er9",
+   "author": "Calmputer",
+   "game_key": "igdb:411566",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "gkj9er9",
+   "author": "Calmputer",
+   "game_key": "igdb:7348",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "gkj9er9",
+   "author": "Calmputer",
+   "game_key": "igdb:990",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "gkj9evp",
+   "author": "pertusaria",
+   "game_key": "igdb:216718",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "gkj9evp",
+   "author": "pertusaria",
+   "game_key": "igdb:27509",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "gkjyq4p",
+   "author": "GrumpHope",
+   "game_key": "igdb:1033",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "gkjyq4p",
+   "author": "GrumpHope",
+   "game_key": "igdb:123775",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "gkjyq4p",
+   "author": "GrumpHope",
+   "game_key": "igdb:166722",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "gkjyq4p",
+   "author": "GrumpHope",
+   "game_key": "igdb:733",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "gkjyq4p",
+   "author": "GrumpHope",
+   "game_key": "igdb:890",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "jyg244x",
+   "author": "Spacewalk",
+   "game_key": "igdb:1571",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "jyg244x",
+   "author": "Spacewalk",
+   "game_key": "igdb:18696",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "jyg244x",
+   "author": "Spacewalk",
+   "game_key": "igdb:19734",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "jyg244x",
+   "author": "Spacewalk",
+   "game_key": "igdb:298931",
+   "relation": "finished"
+  },
+  {
+   "comment_id": "jyg244x",
+   "author": "Spacewalk",
+   "game_key": "igdb:8172",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "k1kew29",
+   "author": "SeekerX",
+   "game_key": "igdb:166722",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "k1kew29",
+   "author": "SeekerX",
+   "game_key": "igdb:1871",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "k1kew29",
+   "author": "SeekerX",
+   "game_key": "igdb:288983",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "k1kew29",
+   "author": "SeekerX",
+   "game_key": "igdb:325609",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "k1kew29",
+   "author": "SeekerX",
+   "game_key": "igdb:350434",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "k1kew29",
+   "author": "SeekerX",
+   "game_key": "igdb:378335",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "k1kew29",
+   "author": "SeekerX",
+   "game_key": "igdb:60",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "k1kew29",
+   "author": "SeekerX",
+   "game_key": "igdb:9643",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "k1kx03o",
+   "author": "Atomica",
+   "game_key": "igdb:320",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "k1kx03o",
+   "author": "Atomica",
+   "game_key": "title:s t a l k e r anomaly g a m m a",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "k1kx05w",
+   "author": "Eulrich",
+   "game_key": "igdb:123",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "k1kx06w",
+   "author": "jaffa, kree",
+   "game_key": "igdb:1911",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "k1kx0mw",
+   "author": "jaffa, kree",
+   "game_key": "igdb:2004",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "k1kx0mw",
+   "author": "jaffa, kree",
+   "game_key": "igdb:832",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "k1kx0mw",
+   "author": "jaffa, kree",
+   "game_key": "igdb:95407",
+   "relation": "dropped"
+  },
+  {
+   "comment_id": "k1kx0z6",
+   "author": "ElTiempo",
+   "game_key": "igdb:52189",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "k1kx0z6",
+   "author": "ElTiempo",
+   "game_key": "title:fable 2026",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "k1kx7k9",
+   "author": "NCD",
+   "game_key": "igdb:130216",
+   "relation": "finished"
+  },
+  {
+   "comment_id": "k1kx7k9",
+   "author": "NCD",
+   "game_key": "igdb:252827",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "k1kx7k9",
+   "author": "NCD",
+   "game_key": "igdb:340113",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "k1kx7k9",
+   "author": "NCD",
+   "game_key": "igdb:97494",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "k1kx7x9",
+   "author": "AnotherNwah",
+   "game_key": "igdb:12503",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "k1kx7x9",
+   "author": "AnotherNwah",
+   "game_key": "igdb:228542",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "k1kxjg7",
+   "author": "Musteriuz",
+   "game_key": "igdb:27744",
+   "relation": "finished"
+  },
+  {
+   "comment_id": "k1kxjg7",
+   "author": "Musteriuz",
+   "game_key": "title:genshin impact",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "k1kxjy7",
+   "author": "silent.mo",
+   "game_key": "igdb:387535",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "k1kxjy7",
+   "author": "silent.mo",
+   "game_key": "title:tristram",
+   "relation": "dropped"
+  },
+  {
+   "comment_id": "l5ye261",
+   "author": "aliksy",
+   "game_key": "title:doom",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "l5ye34x",
+   "author": "SpacemanSpiff",
+   "game_key": "igdb:185246",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "l5ye34x",
+   "author": "SpacemanSpiff",
+   "game_key": "igdb:225582",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "l5ye73x",
+   "author": "Wall Jump Games",
+   "game_key": "igdb:136604",
+   "relation": "dropped"
+  },
+  {
+   "comment_id": "l5ye761",
+   "author": "Petar Zvezdanov",
+   "game_key": "igdb:252837",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "m1w6ml5",
+   "author": "PlatoKaramazov",
+   "game_key": "igdb:109595",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "m1w6ml5",
+   "author": "PlatoKaramazov",
+   "game_key": "igdb:110060",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "m1w6ml5",
+   "author": "PlatoKaramazov",
+   "game_key": "igdb:110061",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "m1w6ml5",
+   "author": "PlatoKaramazov",
+   "game_key": "igdb:136805",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "m1w6ml5",
+   "author": "PlatoKaramazov",
+   "game_key": "igdb:190964",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "m1w6ml5",
+   "author": "PlatoKaramazov",
+   "game_key": "igdb:22704",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "m1w6ml5",
+   "author": "PlatoKaramazov",
+   "game_key": "igdb:275251",
+   "relation": "finished"
+  },
+  {
+   "comment_id": "m1w6ml5",
+   "author": "PlatoKaramazov",
+   "game_key": "igdb:28545",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "m1w6ml5",
+   "author": "PlatoKaramazov",
+   "game_key": "igdb:377314",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "m1w6ml5",
+   "author": "PlatoKaramazov",
+   "game_key": "igdb:99071",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "m1w6myy",
+   "author": "AnotherNwah",
+   "game_key": "igdb:521",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "m1w6myy",
+   "author": "AnotherNwah",
+   "game_key": "igdb:56",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "m1w6myy",
+   "author": "AnotherNwah",
+   "game_key": "igdb:9596",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "m1w6p45",
+   "author": "AthanSpod",
+   "game_key": "igdb:348168",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "m1wv1y7",
+   "author": "GrumpHope",
+   "game_key": "igdb:109",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "m1wv1y7",
+   "author": "GrumpHope",
+   "game_key": "igdb:123775",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "m1wv1y7",
+   "author": "GrumpHope",
+   "game_key": "igdb:1871",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "m1wv1y7",
+   "author": "GrumpHope",
+   "game_key": "igdb:236",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "m1wv1y7",
+   "author": "GrumpHope",
+   "game_key": "igdb:493",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "m1wv1y7",
+   "author": "GrumpHope",
+   "game_key": "igdb:6325",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "m1wv1y7",
+   "author": "GrumpHope",
+   "game_key": "igdb:890",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "m1wv1y7",
+   "author": "GrumpHope",
+   "game_key": "igdb:9643",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "oo14765",
+   "author": "elsparko",
+   "game_key": "igdb:340113",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "oo14795",
+   "author": "Wall Jump Games",
+   "game_key": "igdb:340113",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "oo14933",
+   "author": "RickyParaphernalia",
+   "game_key": "igdb:115309",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "oo14933",
+   "author": "RickyParaphernalia",
+   "game_key": "igdb:279624",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "oo149q7",
+   "author": "Atomica",
+   "game_key": "igdb:101440",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "oo149q7",
+   "author": "Atomica",
+   "game_key": "title:s t a l k e r anomaly g a m m a",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "p0x369x",
+   "author": "aoanla",
+   "game_key": "igdb:228525",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "p0x3je7",
+   "author": "SpacemanSpiff",
+   "game_key": "igdb:136604",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "p0x3je7",
+   "author": "SpacemanSpiff",
+   "game_key": "igdb:185246",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "p0x3jq4",
+   "author": "Ghostt8117",
+   "game_key": "igdb:1877",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "p0x3jq4",
+   "author": "Ghostt8117",
+   "game_key": "igdb:203259",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "p0x3jq4",
+   "author": "Ghostt8117",
+   "game_key": "igdb:26845",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "p0x3jrx",
+   "author": "RickyParaphernalia",
+   "game_key": "igdb:26472",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "qqe326p",
+   "author": "Galactic Man",
+   "game_key": "igdb:279624",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "r76p76e",
+   "author": "SeekerX",
+   "game_key": "igdb:1871",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "r76p76e",
+   "author": "SeekerX",
+   "game_key": "igdb:236",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "r76p76e",
+   "author": "SeekerX",
+   "game_key": "igdb:27826",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "r76p76e",
+   "author": "SeekerX",
+   "game_key": "igdb:64",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "r76yezk",
+   "author": "Cornelis",
+   "game_key": "igdb:136604",
+   "relation": "finished"
+  },
+  {
+   "comment_id": "r76yezk",
+   "author": "Cornelis",
+   "game_key": "igdb:19",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "r76yr3k",
+   "author": "Spacemonkeys",
+   "game_key": "igdb:143061",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "r76yr3k",
+   "author": "Spacemonkeys",
+   "game_key": "igdb:17000",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "r76yr3k",
+   "author": "Spacemonkeys",
+   "game_key": "igdb:226035",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "r76yr4z",
+   "author": "K33L3R",
+   "game_key": "igdb:289696",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "r76yr4z",
+   "author": "K33L3R",
+   "game_key": "igdb:880",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "r76yrvk",
+   "author": "I_have_no_nose_but_I_must_sneeze",
+   "game_key": "igdb:319082",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "r76yrvk",
+   "author": "I_have_no_nose_but_I_must_sneeze",
+   "game_key": "igdb:346233",
+   "relation": "finished"
+  },
+  {
+   "comment_id": "r76yxgz",
+   "author": "GrumpHope",
+   "game_key": "igdb:2209",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "r76yxgz",
+   "author": "GrumpHope",
+   "game_key": "igdb:895",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "r76yxgz",
+   "author": "GrumpHope",
+   "game_key": "title:broken sword the shadow of the templars",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "vrz10yj",
+   "author": "NCD",
+   "game_key": "igdb:103054",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "vrz10yj",
+   "author": "NCD",
+   "game_key": "igdb:133004",
+   "relation": "dropped"
+  },
+  {
+   "comment_id": "vrz10yj",
+   "author": "NCD",
+   "game_key": "igdb:1970",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "vrz10yj",
+   "author": "NCD",
+   "game_key": "igdb:300976",
+   "relation": "dropped"
+  },
+  {
+   "comment_id": "vrz13v6",
+   "author": "SeekerX",
+   "game_key": "igdb:14593",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "w42l30m",
+   "author": "jimjamjimjam",
+   "game_key": "igdb:117170",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "w42l30m",
+   "author": "jimjamjimjam",
+   "game_key": "igdb:237349",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "w42l30m",
+   "author": "jimjamjimjam",
+   "game_key": "igdb:279643",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "w42l30m",
+   "author": "jimjamjimjam",
+   "game_key": "igdb:28545",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "w42l30m",
+   "author": "jimjamjimjam",
+   "game_key": "igdb:285974",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "w42l350",
+   "author": "elsparko",
+   "game_key": "igdb:26845",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "w42l360",
+   "author": "wankerman",
+   "game_key": "igdb:228525",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "x9rl30o",
+   "author": "malkav11",
+   "game_key": "igdb:890",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "x9rl30o",
+   "author": "malkav11",
+   "game_key": "igdb:895",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "x9rl3gp",
+   "author": "controlled_by_my_cats",
+   "game_key": "igdb:2539",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "x9rlp56",
+   "author": "GrumpHope",
+   "game_key": "igdb:121763",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "x9rlp70",
+   "author": "LegendOfLink",
+   "game_key": "igdb:2539",
+   "relation": "dropped"
+  },
+  {
+   "comment_id": "x9rlvv6",
+   "author": "Spacewalk",
+   "game_key": "title:doom 2",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "y31l444",
+   "author": "Mungrul",
+   "game_key": "igdb:228456",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "y31l444",
+   "author": "Mungrul",
+   "game_key": "igdb:279643",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "y31l444",
+   "author": "Mungrul",
+   "game_key": "igdb:340113",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "y31l444",
+   "author": "Mungrul",
+   "game_key": "title:xcom",
+   "relation": "comparison"
+  },
+  {
+   "comment_id": "y31l4p6",
+   "author": "juan_h",
+   "game_key": "igdb:11061",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "y31l4p6",
+   "author": "juan_h",
+   "game_key": "igdb:133674",
+   "relation": "planning"
+  },
+  {
+   "comment_id": "y31l4p6",
+   "author": "juan_h",
+   "game_key": "igdb:866",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "y31lko7",
+   "author": "GrumpHope",
+   "game_key": "igdb:252837",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "y31lko7",
+   "author": "GrumpHope",
+   "game_key": "igdb:279624",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "y31lko7",
+   "author": "GrumpHope",
+   "game_key": "igdb:344050",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "y31lko7",
+   "author": "GrumpHope",
+   "game_key": "igdb:352878",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "y31lp9r",
+   "author": "GrumpHope",
+   "game_key": "igdb:251833",
+   "relation": "mentioned"
+  },
+  {
+   "comment_id": "y31lpj1",
+   "author": "aliksy",
+   "game_key": "igdb:17000",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "y31lpj1",
+   "author": "aliksy",
+   "game_key": "igdb:76882",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "zp2g0m0",
+   "author": "Zaz[nayka]",
+   "game_key": "igdb:251833",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "zp2g0m0",
+   "author": "Zaz[nayka]",
+   "game_key": "igdb:279624",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "zp2g0z0",
+   "author": "PeskyFletch",
+   "game_key": "igdb:113111",
+   "relation": "dropped"
+  },
+  {
+   "comment_id": "zp2g9p2",
+   "author": "Aankhen",
+   "game_key": "igdb:177169",
+   "relation": "finished"
+  },
+  {
+   "comment_id": "zp2g9p2",
+   "author": "Aankhen",
+   "game_key": "igdb:325176",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "zp2g9wv",
+   "author": "Tomato Can",
+   "game_key": "igdb:110039",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "zp2gkpl",
+   "author": "Mungrul",
+   "game_key": "igdb:340113",
+   "relation": "playing"
+  },
+  {
+   "comment_id": "zp2gkpl",
+   "author": "Mungrul",
+   "game_key": "igdb:7477",
+   "relation": "comparison"
+  }
+ ]
+}
